@@ -241,7 +241,7 @@ export default function App() {
     },
   ]
 
-  const brandingLogos = ['/logo-main.png', '/logo1.png', '/logo2.png', '/logo3.png']
+  const brandingLogos = [ '/logo1.png', '/logo2.png']
   const chaosImages = ['/chaos1.png', '/chaos2.png', '/chaos3.png', '/chaos4.png', '/chaos5.png', '/chaos6.png']
   const merchImages = ['/merch1.png', '/merch2.png', '/merch3.png', '/merch4.png']
 
